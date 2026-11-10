@@ -4,8 +4,8 @@ Data and product analyst specialised in in bridging numbers into business insigh
 Open to: data analyst / product analyst roles
 
 ## 🔭 Featured projects from Data Analytics bootcamp, Ironhack
-- **[Olist research](https://github.com/kyukhlina/final_project)** 
-- **[Vanguard A/B tests investigation](https://github.com/kyukhlina/second_project)**
+- **[Olist research in "final_project" repo](https://github.com/kyukhlina/final_project)**
+- **[Vanguard A/B tests investigation in "second_project" repo](https://github.com/kyukhlina/second_project)**
 
 
 ## 👯 Contribution projects (within Data Analytics bootcamp, Ironhack)
